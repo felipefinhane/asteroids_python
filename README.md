@@ -26,7 +26,7 @@ python main.py
 ```
 
 ## Extending the Project
-You've done all the required steps, but if you'd like to make the game your own, here are some ideas:
+Next steps:
 
 - Add a scoring system
 - Implement multiple lives and respawning
